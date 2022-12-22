@@ -1,2 +1,24 @@
+.holder{
+    display:grid;
+    grid-template-columns: repeat(2,200px);
+    grid-template-rows: repeat(2,200px);
+} 
 
-/* Your CSS Code here. */
+.box{
+   border:   black;
+   border-style: solid;
+}
+/* }.box2{
+    border-radius: 1px solide black;
+    background-color: rgb(27, 65, 217);
+  
+}
+.box3{
+    border-radius: 1px solide black;
+    background-color: rgb(20, 218, 53);
+  
+}.box4{
+    border-radius: 1px solide black;
+    background-color: red;
+  
+} */
